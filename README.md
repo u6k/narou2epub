@@ -6,3 +6,7 @@ narou2epub
 ## メモ
 
 * [whiteleaf7/narou](https://github.com/whiteleaf7/narou)
+
+## 課題管理
+
+https://myredmine-u6kapps.rhcloud.com/projects/narou2epub
